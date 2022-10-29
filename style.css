@@ -3,10 +3,10 @@ body{
   margin: 0px;
   text-align: center;
   font-family: sans-serif;
+  background-color: #ecfeec;
+  background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
-  background-color: #ecfeec;
-  
   
 }
 #importantFontStuff{
@@ -20,7 +20,7 @@ body{
 
 div{
   display: inline-block;
-  color:green;
+  color:black;
   text-align: center-left;
   padding: 14px 16px;
   text-decoration: none;
