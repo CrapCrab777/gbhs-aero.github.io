@@ -1,8 +1,13 @@
 body{
-  padding: 0px;
+  padding-top: 0px;
   margin: 0px;
   text-align: center;
   font-family: sans-serif;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-color: #ecfeec;
+  
+  
 }
 #importantFontStuff{
   font-size: 60px;
@@ -10,7 +15,7 @@ body{
 
 
 .titles{
-  color: #2e93ff;
+  color: green;
 }
 
 div{
@@ -64,7 +69,7 @@ li a {
 
 
 li a:hover {
-  background-color: #111;
+  background-color: #009900;
 }
 
 #airfoil{
@@ -77,7 +82,8 @@ li a:hover {
   width: 100%;
 }
 
-#fontStuff{
-  font-family: Avanta-Garde;
-  font-size: 35px;
+#thisBetterWork{
+  font-family: serif;
 }
+#https://www.rjuhsd.us/granitebay
+ok
