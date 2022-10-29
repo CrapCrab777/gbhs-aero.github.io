@@ -12,12 +12,12 @@ body{
   
   
   .titles{
-    color: green;
+    color: rgb(0, 129, 0);
   }
   
   div{
     display: inline-block;
-    color:black;
+    color:(0, 0, 0);
     text-align: center-left;
     padding: 14px 16px;
     text-decoration: none;
