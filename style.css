@@ -4,7 +4,10 @@ body{
   text-align: center;
   font-family: sans-serif;
   background-color: #ecfeec;
+  background-image: url("")
+  background-size: cover;
   background-position: bottom;
+  background-repeat: no-repeat;
   
 }
 #importantFontStuff{
@@ -67,7 +70,7 @@ li a {
 
 
 li a:hover {
-  background-color: white;
+  background-color: #009900;
 }
 
 #airfoil{
@@ -92,5 +95,5 @@ li a:hover {
 }
 
 #test{
-  background-color: green;
+  background-color:green;
 }
