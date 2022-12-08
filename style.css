@@ -1,49 +1,14 @@
 body{
-  padding-top: 0px;
+  padding: 0px;
   margin: 0px;
   text-align: center;
   font-family: sans-serif;
-  background-color: #ecfeec;
-  background-image: url("");
-  background-size: cover;
-  background-position: bottom;
-  background-repeat: no-repeat;
-  
 }
 
 
-#hello{
-  color: black;
-  text-decoration: none;
-}
-
-#left-align{
-font-size: 20px;
-  background-image: url("plane.jpg");
-  background-size: cover;
-  color: orange;
-  text-align: left;
-}
-
-.links{
-  font-size: 20px;
-  margin-left: 40px;
-  margin-right: 40px;
-
-}
-
-#text{
-  font-size: 20px;
-  margin-left: 200px;
-  margin-right: 200px;
-  color: black;
-
-}
 
 .titles{
-  color: green;
-  font-size: 40px;
-
+  color: #2e93ff;
 }
 
 div{
@@ -60,21 +25,12 @@ header{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
-  margin: 20px;
+  background-attachment: no-repeat;
+  margin: 0px;
   min-height:85vh;
-  padding-left: 20px;
-  padding-right: 20px;
   
 }
 
-#logo{
-    margin-bottom: 20px;
-}
-
-#reee{
-  color: #333;
-}
 
 #ooof{
   color: #0000ff;
@@ -84,36 +40,17 @@ header{
 }
 
 
-.sticky{
+ul {
   list-style-type: none;
   margin: 0px;
   padding-bottom: 0px;
   overflow: hidden;
   background-color: #333;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  
 }
 
-#GBAC{
+li {
   float: left;
 }
-
-#greenUL{
-  list-style-type: none;
-  margin: 0px;
-  padding-bottom: 0px;
-  overflow: hidden;
-  background-color: green;
-  
-}
-
-
-li{
-  float: right;
-  margin-right: 70px;
-  }
 
 li a {
   display: block;
@@ -125,5 +62,15 @@ li a {
 
 
 li a:hover {
-  background-color: #009900;
+  background-color: #111;
+}
+
+#airfoil{
+  color: #2e93ff;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
